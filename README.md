@@ -9,3 +9,5 @@ This project is a basic API that allows you to convert between dates and Unix ti
 - Handle a wide range of date formats, including ISO dates, short dates, and long dates.
 - Return error messages for invalid inputs.
 
+## Contributing
+Contributions are welcome! Please feel free to open an issue or create a pull request if you find any issues or have improvements to suggest.
